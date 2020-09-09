@@ -1,0 +1,17 @@
+.navbar {
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: black;
+}
+
+.navbar .nav-item .nav-link, .navbar-brand {
+    color: orange;
+}
+
+.corosal-image {
+    height: 100vh;
+    background-image: url('https://p.bigstockphoto.com/GeFvQkBbSLaMdpKXF1Zv_bigstock-Aerial-View-Of-Blue-Lakes-And--227291596.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
