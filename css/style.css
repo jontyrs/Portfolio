@@ -287,6 +287,10 @@ h1, h2, h3, h4, h5,
 .bg-black {
   background: #000; }
 
+.font-color {
+  color: #ff8b00;
+}
+
 .form-control {
   height: 55px;
   border: none;
@@ -442,10 +446,11 @@ h1, h2, h3, h4, h5,
     line-height: 1.5; }
     .ul-check li:before {
       left: 0;
-      font-size: 20px;
-      top: -.3rem;
+      font-size: 15px;
+      top: .1rem;
       font-family: "icomoon";
-      content: "\e5ca";
+      /* content: "\e5ca"; */
+      content: "\f068";
       position: absolute; }
   .ul-check.white li:before {
     color: #fff; }
