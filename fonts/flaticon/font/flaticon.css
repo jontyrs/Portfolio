@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 12/09/2020 07:31
+  	Creation date: 12/09/2020 10:05
   	*/
 
 @font-face {
@@ -25,18 +25,25 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
-        font-size: 20px;
+        font-size: 55px;
 font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-science:before { content: "\f100"; }
-.flaticon-seo:before { content: "\f101"; }
-.flaticon-cpp-file-format-symbol:before { content: "\f102"; }
-.flaticon-structured-data:before { content: "\f103"; }
-.flaticon-neural:before { content: "\f104"; }
-.flaticon-university:before { content: "\f105"; }
-.flaticon-logical-thinking:before { content: "\f106"; }
-.flaticon-certificate:before { content: "\f107"; }
-.flaticon-badge:before { content: "\f108"; }
-.flaticon-project-management:before { content: "\f109"; }
+.flaticon-id-card:before { content: "\f100"; }
+.flaticon-mortarboard:before { content: "\f101"; }
+.flaticon-java:before { content: "\f102"; }
+.flaticon-python-language-logotype:before { content: "\f103"; }
+.flaticon-server:before { content: "\f104"; }
+.flaticon-suitcase:before { content: "\f105"; }
+.flaticon-university-building:before { content: "\f106"; }
+.flaticon-school:before { content: "\f107"; }
+.flaticon-logical-thinking:before { content: "\f108"; }
+.flaticon-cpp-icon-file-format:before { content: "\f109"; }
+.flaticon-structured-data:before { content: "\f10a"; }
+.flaticon-neural:before { content: "\f10b"; }
+.flaticon-science:before { content: "\f10c"; }
+.flaticon-seo:before { content: "\f10d"; }
+.flaticon-certificate:before { content: "\f10e"; }
+.flaticon-badge:before { content: "\f10f"; }
+.flaticon-project-management:before { content: "\f110"; }

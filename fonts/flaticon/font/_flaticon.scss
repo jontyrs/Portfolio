@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 12/09/2020 07:31
+    Creation date: 12/09/2020 10:05
     */
 
     @font-face {
@@ -37,24 +37,38 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-science:before { content: "\f100"; }
-.flaticon-seo:before { content: "\f101"; }
-.flaticon-cpp-file-format-symbol:before { content: "\f102"; }
-.flaticon-structured-data:before { content: "\f103"; }
-.flaticon-neural:before { content: "\f104"; }
-.flaticon-university:before { content: "\f105"; }
-.flaticon-logical-thinking:before { content: "\f106"; }
-.flaticon-certificate:before { content: "\f107"; }
-.flaticon-badge:before { content: "\f108"; }
-.flaticon-project-management:before { content: "\f109"; }
+    .flaticon-id-card:before { content: "\f100"; }
+.flaticon-mortarboard:before { content: "\f101"; }
+.flaticon-java:before { content: "\f102"; }
+.flaticon-python-language-logotype:before { content: "\f103"; }
+.flaticon-server:before { content: "\f104"; }
+.flaticon-suitcase:before { content: "\f105"; }
+.flaticon-university-building:before { content: "\f106"; }
+.flaticon-school:before { content: "\f107"; }
+.flaticon-logical-thinking:before { content: "\f108"; }
+.flaticon-cpp-icon-file-format:before { content: "\f109"; }
+.flaticon-structured-data:before { content: "\f10a"; }
+.flaticon-neural:before { content: "\f10b"; }
+.flaticon-science:before { content: "\f10c"; }
+.flaticon-seo:before { content: "\f10d"; }
+.flaticon-certificate:before { content: "\f10e"; }
+.flaticon-badge:before { content: "\f10f"; }
+.flaticon-project-management:before { content: "\f110"; }
     
-    $font-Flaticon-science: "\f100";
-    $font-Flaticon-seo: "\f101";
-    $font-Flaticon-cpp-file-format-symbol: "\f102";
-    $font-Flaticon-structured-data: "\f103";
-    $font-Flaticon-neural: "\f104";
-    $font-Flaticon-university: "\f105";
-    $font-Flaticon-logical-thinking: "\f106";
-    $font-Flaticon-certificate: "\f107";
-    $font-Flaticon-badge: "\f108";
-    $font-Flaticon-project-management: "\f109";
+    $font-Flaticon-id-card: "\f100";
+    $font-Flaticon-mortarboard: "\f101";
+    $font-Flaticon-java: "\f102";
+    $font-Flaticon-python-language-logotype: "\f103";
+    $font-Flaticon-server: "\f104";
+    $font-Flaticon-suitcase: "\f105";
+    $font-Flaticon-university-building: "\f106";
+    $font-Flaticon-school: "\f107";
+    $font-Flaticon-logical-thinking: "\f108";
+    $font-Flaticon-cpp-icon-file-format: "\f109";
+    $font-Flaticon-structured-data: "\f10a";
+    $font-Flaticon-neural: "\f10b";
+    $font-Flaticon-science: "\f10c";
+    $font-Flaticon-seo: "\f10d";
+    $font-Flaticon-certificate: "\f10e";
+    $font-Flaticon-badge: "\f10f";
+    $font-Flaticon-project-management: "\f110";
