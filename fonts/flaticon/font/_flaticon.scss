@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 24/07/2020 08:49
+    Creation date: 12/09/2020 07:31
     */
 
     @font-face {
@@ -37,16 +37,24 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-skateboard-4:before { content: "\f100"; }
-.flaticon-skateboard:before { content: "\f101"; }
-.flaticon-skateboard-1:before { content: "\f102"; }
-.flaticon-skateboard-2:before { content: "\f103"; }
-.flaticon-skateboard-3:before { content: "\f104"; }
-.flaticon-skateboarding:before { content: "\f105"; }
+    .flaticon-science:before { content: "\f100"; }
+.flaticon-seo:before { content: "\f101"; }
+.flaticon-cpp-file-format-symbol:before { content: "\f102"; }
+.flaticon-structured-data:before { content: "\f103"; }
+.flaticon-neural:before { content: "\f104"; }
+.flaticon-university:before { content: "\f105"; }
+.flaticon-logical-thinking:before { content: "\f106"; }
+.flaticon-certificate:before { content: "\f107"; }
+.flaticon-badge:before { content: "\f108"; }
+.flaticon-project-management:before { content: "\f109"; }
     
-    $font-Flaticon-skateboard-4: "\f100";
-    $font-Flaticon-skateboard: "\f101";
-    $font-Flaticon-skateboard-1: "\f102";
-    $font-Flaticon-skateboard-2: "\f103";
-    $font-Flaticon-skateboard-3: "\f104";
-    $font-Flaticon-skateboarding: "\f105";
+    $font-Flaticon-science: "\f100";
+    $font-Flaticon-seo: "\f101";
+    $font-Flaticon-cpp-file-format-symbol: "\f102";
+    $font-Flaticon-structured-data: "\f103";
+    $font-Flaticon-neural: "\f104";
+    $font-Flaticon-university: "\f105";
+    $font-Flaticon-logical-thinking: "\f106";
+    $font-Flaticon-certificate: "\f107";
+    $font-Flaticon-badge: "\f108";
+    $font-Flaticon-project-management: "\f109";
